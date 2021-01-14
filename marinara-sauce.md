@@ -4,7 +4,7 @@
 * 1/4 cup extra virgin olive oil
 * 1/2 medium onion minced
 * 4 cloves of garlic minced
-* 1 (28-oz.) can whole tomatoes
+* 1 (28-oz.) can whole tomatoes (San Marzano preferred)
 * 1 tsp dried oregano
 * pinch of red pepper flakes
 * 2 large sprigs of fresh basil
@@ -19,4 +19,4 @@
 
 ## Notes:
 
-* `We prefer San Marzano tomatoes.  The recipe calls for whole tomatoes because they are generally considered the high quality.  Damaged tomatoes get crushed and canned separately.  You can use an immersion blender if you prefer a smoother sauce.`
+* `The recipe calls for whole tomatoes because they are generally considered the high quality.  Damaged tomatoes get crushed and canned separately.  You can use an immersion blender if you prefer a smoother sauce.`
